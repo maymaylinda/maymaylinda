@@ -8,5 +8,6 @@
 - _utilizo esse espaço para minha organização e compartilhamento_
   _dos meus projetos desenvolvidos_ 🌟
   ![hinata-naruto](https://github.com/maymaylinda/maymaylinda/assets/171812464/31f04b9f-4a18-4073-8da7-d24f6ed9435d)
+
   Estou estudando na [Alura] (https://cursos.alura.com.br/dashboard)
 
